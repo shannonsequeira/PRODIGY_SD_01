@@ -17,3 +17,11 @@ Create a program that converts temperatures between Celsius, Fahrenheit, and Kel
 ### Languages and Tools:
 
 - JavaScript/HTML/CSS: Create a web-based application using Bootstrap framework
+
+### Visualization:
+
+![Visualization 1](images/desktop_view.png)
+*Desktop View*
+
+![Visualization 2](images/smartphone_view.png)
+*Smartphone View*
