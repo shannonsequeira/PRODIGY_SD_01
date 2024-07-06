@@ -1,4 +1,4 @@
-# PRODIGY_ST_01
+# PRODIGY_SD_01
 Temperature Conversion Program ( Celsius | Fahrenheit | Kelvin )
 
 ## Task 1: Build a Temperature Conversion Program
