@@ -13,3 +13,7 @@ Create a program that converts temperatures between Celsius, Fahrenheit, and Kel
 - Prompt the user to input a temperature value and select the original unit of measurement
 - Convert the input temperature to the other two units (Celsius, Fahrenheit, Kelvin)
 - Display the converted values to the user
+
+### Languages and Tools:
+
+- JavaScript/HTML/CSS: Create a web-based application using Bootstrap framework
