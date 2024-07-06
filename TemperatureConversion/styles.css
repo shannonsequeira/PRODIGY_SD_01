@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #007bff;
+}
+
+.card-celsius .card-title {
+    color: red;
+    background-color: #ffe6e6;
+}
+
+.card-fahrenheit .card-title {
+    color: blue;
+    background-color: #daeff8;
+}
+
+.card-kelvin .card-title {
+    color: orange;
+    background-color: #fff3e6;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-group label {
+    font-weight: bold;
+}
